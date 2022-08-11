@@ -1,2 +1,2 @@
 # AFKOIN
-Metaverse asset store.
+Metaverse aset store.
