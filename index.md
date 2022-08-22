@@ -1,6 +1,6 @@
 ## Welcome to AFKOIN OMNIVERSE
 
-AFKOIN OMNIVERSE is a(markdown)[editor on GitHub](https://github.com/Deangenus/AFKOIN/edit/gh-pages/index.md) blockchain-as-a-service-platform that is curently up and running . The creator is a global visionary artist of a ubique nature. One of the most prolific artist who uses the art itself as the actor.This artist has plans to give life to an NFT hence the OMNIVERSE. .Call it a bubble if you will. Invisible and indestructible until you enter. This new reality is now manifested in the AFKOIN OMNIVERSE.
+AFKOIN OMNIVERSE is a [AFKOIN] [editor on GitHub](https://github.com/Deangenus/AFKOIN/edit/gh-pages/index.md) blockchain-as-a-service-platform that is curently up and running . The creator is a global visionary artist of a ubique nature. One of the most prolific artist who uses the art itself as the actor.This artist has plans to give life to an NFT hence the OMNIVERSE. .Call it a bubble if you will. Invisible and indestructible until you enter. This new reality is now manifested in the AFKOIN OMNIVERSE.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
