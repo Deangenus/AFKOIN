@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-![Afkoin ][Markdown](https://drive.google.com/file/d/13t-VW4ANNx10okkm_ccnf9r2kF3yVCrU/view?usp=drivesdk) is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Afkoin ](https://drive.google.com/file/d/13t-VW4ANNx10okkm_ccnf9r2kF3yVCrU/view?usp=drivesdk) is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
